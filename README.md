@@ -10,7 +10,7 @@ Safari
 
 This code uses the notification center introduced in Mac OS X 10.8 and
 Safari's ability to allow webpages to interface with this. It mimics
-Growl's ability to show you the discreetly current song being played as it starts
+Growl's ability to discreetly show you the current song being played as it starts
 playing.
 
 To use:
