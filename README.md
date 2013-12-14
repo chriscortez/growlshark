@@ -5,6 +5,7 @@ A Growl-like notification system for Grooveshark
 
 Requirements:
 Max OS X 10.8 or later
+
 Safari
 
 This code uses the notification center introduced in Mac OS X 10.8 and
